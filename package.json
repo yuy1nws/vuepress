@@ -2,6 +2,7 @@
   "name": "demo",
   "version": "1.0.0",
   "author": "reco_luan",
+  "homepage": "https://username.github.io",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
